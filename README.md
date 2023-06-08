@@ -5,4 +5,5 @@ This program was designed and created to calculate the different travel options 
 You may use the code by running main in IDE compatibable with C++
 
 Contributors: Eric Chang, Arthur Luu, and Joseph Medina
+
 Date Published: 6/7/2023
